@@ -20,7 +20,6 @@ After you clone the project, open it in Visual Studio Code.
 for Linux:
 ```linux
 cd HTML-Canvas
-
 code .
 ```
 
