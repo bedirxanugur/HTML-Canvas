@@ -19,7 +19,8 @@ After you clone the project, open it in Visual Studio Code.
 ***
 for Linux:
 ```linux
-cd sketch1534271
+cd HTML-Canvas
+
 code .
 ```
 
