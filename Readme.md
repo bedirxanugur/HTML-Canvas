@@ -1,4 +1,4 @@
-# Canvas Sketch / 1513148
+# HTML-Canvas Sketch / 221022
 
 [Xan](https://beacons.ai/bedirxanugur) The first-canvas repository I created in the Front-End & Creative Coding
 
@@ -10,7 +10,7 @@
 Firstly [clone](https://github.com/bedirxanugur) the project. 
 
 ```bash
-git clone git@github.com:bedirxanugur/sketch1534271.git
+git clone https://github.com/bedirxanugur/HTML-Canvas.git
 ```
 
 ## Usage
